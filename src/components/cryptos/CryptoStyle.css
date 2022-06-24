@@ -1,0 +1,31 @@
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.cryptos-container{
+    margin: 10rem auto auto auto;
+    background-color: rgb(232, 235, 235);
+    padding: 2rem 3rem;
+    border-radius: 1rem;
+    box-shadow: rgb(0 0 0 / 22%) 0px 8px 24px;
+    
+    
+    
+
+}
+.cryptos-container:hover{
+    box-shadow: rgb(0 0 0 / 92%) 0px 8px 24px;
+    transform: translateY(10px);
+    transition: 0.5s ease-in-out;
+}
+.coin-img{
+    width: 12rem;
+    
+    
+
+}
+.price{
+    padding: 1rem;
+}

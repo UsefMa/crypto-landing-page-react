@@ -1,3 +1,7 @@
+# crypto-website made with react and API Coin for (data),
+
+DEMO ; https://usefma.github.io/crypto-landing-page-react/ 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

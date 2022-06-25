@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crypto-landing-page-react/static/css/main.8c3eea10.css",
+    "main.js": "/crypto-landing-page-react/static/js/main.b4ee25c2.js",
+    "static/media/bg.jpg": "/crypto-landing-page-react/static/media/bg.e357ee9e0c33e26445e6.jpg",
+    "static/media/SUPPORT.jpg": "/crypto-landing-page-react/static/media/SUPPORT.68707b449a6598a8cced.jpg",
+    "index.html": "/crypto-landing-page-react/index.html",
+    "main.8c3eea10.css.map": "/crypto-landing-page-react/static/css/main.8c3eea10.css.map",
+    "main.b4ee25c2.js.map": "/crypto-landing-page-react/static/js/main.b4ee25c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c3eea10.css",
+    "static/js/main.b4ee25c2.js"
+  ]
+}
